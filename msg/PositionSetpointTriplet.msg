@@ -3,6 +3,6 @@
 
 uint64 timestamp		# time since system start (microseconds)
 
-PositionSetpoint previous
-PositionSetpoint current
-PositionSetpoint next
+px4/PositionSetpoint previous
+px4/PositionSetpoint current
+px4/PositionSetpoint next

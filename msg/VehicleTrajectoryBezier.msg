@@ -12,6 +12,7 @@ uint8 POINT_4 = 4
 
 uint8 NUMBER_POINTS = 5
 
-TrajectoryBezier[5] control_points
+px4/TrajectoryBezier[5] control_points
 uint8 bezier_order
 
+# TOPICS vehicle_trajectory_bezier
